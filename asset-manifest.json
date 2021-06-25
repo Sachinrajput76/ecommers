@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lets-deploy-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/lets-deploy-app/static/js/main.464b3708.chunk.js",
+    "main.js.map": "/lets-deploy-app/static/js/main.464b3708.chunk.js.map",
+    "runtime-main.js": "/lets-deploy-app/static/js/runtime-main.8cf34bdb.js",
+    "runtime-main.js.map": "/lets-deploy-app/static/js/runtime-main.8cf34bdb.js.map",
+    "static/js/2.b6bc4be1.chunk.js": "/lets-deploy-app/static/js/2.b6bc4be1.chunk.js",
+    "static/js/2.b6bc4be1.chunk.js.map": "/lets-deploy-app/static/js/2.b6bc4be1.chunk.js.map",
+    "static/js/3.07717ae8.chunk.js": "/lets-deploy-app/static/js/3.07717ae8.chunk.js",
+    "static/js/3.07717ae8.chunk.js.map": "/lets-deploy-app/static/js/3.07717ae8.chunk.js.map",
+    "index.html": "/lets-deploy-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/lets-deploy-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b6bc4be1.chunk.js.LICENSE.txt": "/lets-deploy-app/static/js/2.b6bc4be1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lets-deploy-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cf34bdb.js",
+    "static/js/2.b6bc4be1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.464b3708.chunk.js"
+  ]
+}
