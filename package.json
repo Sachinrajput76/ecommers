@@ -1,5 +1,4 @@
 {
-  "homepage": "https://sachinrajput76.github.io/lets-deploy-app/",
   "name": "new-app",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +11,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+  "homepage": "https://sachinrajput76.github.io/lets-deploy-app/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

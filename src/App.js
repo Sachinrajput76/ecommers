@@ -1,24 +1,23 @@
-import logo from './logo.svg'
 import './App.css'
+import { Container, Row, Col } from 'react-bootstrap'
+import Header from './components/header'
+import Footer from './components/footer'
+import Homescrean from './screens/Homescreen'
+import Productscreen from './screens/Productscreen'
+import { BrowserRouter as Router, Route } from 'react-router-dom'
 
-function App() {
+const App = () => {
   return (
-    <div className='App'>
-      <header className='App-header'>
-        <img src={logo} className='App-logo' alt='logo' />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className='App-link'
-          href='https://reactjs.org'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          Lets deploy app my app
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Header />
+      <main>
+        <Container>
+          <Route exact path='/' component={Homescrean} />
+          <Route path='/Product/:id' component={Productscreen} />
+        </Container>
+      </main>
+      <Footer />
+    </Router>
   )
 }
 
