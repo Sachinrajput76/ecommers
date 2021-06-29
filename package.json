@@ -16,7 +16,7 @@
     "url-loader": "^4.1.1",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://sachinrajput76.github.io/ecommers-frontend/",
+  "homepage": "https://sachinrajput76.github.io/ecommers/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -50,12 +50,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sachinrajput76/lets-deploy-app/"
+    "url": "https://sachinrajput76.github.io/ecommers/"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sachinrajput76/lets-deploy-app/issues"
+    "url": "https://sachinrajput76.github.io/ecommers/issues"
   }
 }
