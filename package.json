@@ -16,7 +16,7 @@
     "url-loader": "^4.1.1",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://Sachinrajput76.github.io/ecommers/",
+  "homepage": "https://sachinrajput76.github.io/ecommers",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -50,12 +50,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://Sachinrajput76.github.io/ecommers/"
+    "url": "https://sachinrajput76.github.io/ecommers"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://Sachinrajput76.github.io/ecommers/issues"
+    "url": "https://sachinrajput76.github.io/ecommers/issues"
   }
 }
