@@ -9,14 +9,14 @@ import Page404 from './Page404'
 
 const App = () => {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Header />
       <main>
         <Container>
           <Switch>
-            <Route path='/' component={Homescrean} exact />
-            <Route path='Product/:id' component={Productscreen} />
-            <Route path='*' component={Page404} />
+            <Route exact path='/' component={Homescrean} />
+            <Route path='/Product/:id' component={Productscreen} />
+            <Route path='*' exact={true} component={Page404} />
           </Switch>
         </Container>
       </main>
