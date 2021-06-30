@@ -13,9 +13,9 @@ const App = () => {
       <Header />
       <main>
         <Container>
-          <Route exact path={'/'} component={Homescrean} />
-          <Route path={'/Product/:id'} component={Productscreen} />
-          <Route path={'*'} component={Page404} />
+          <Route exact path='ecommers/' component={Homescrean} />
+          <Route path='ecommers/Product/:id' component={Productscreen} />
+          <Route path='*' component={Page404} />
         </Container>
       </main>
       <Footer />
