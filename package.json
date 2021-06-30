@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sachinrajput76.github.io/ecommers",
+  "homepage": "https://Sachinrajput76.github.io/ecommers",
   "name": "new-app",
   "version": "0.1.0",
   "private": true,
@@ -51,12 +51,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://sachinrajput76.github.io/ecommers"
+    "url": "https://Sachinrajput76.github.io/ecommers"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://sachinrajput76.github.io/ecommers/issues"
+    "url": "https://Sachinrajput76.github.io/ecommers/issues"
   }
 }
