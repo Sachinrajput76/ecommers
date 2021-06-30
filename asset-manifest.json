@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sachinrajput76/ecommers/static/css/main.66f54b8a.chunk.css",
-    "main.js": "/sachinrajput76/ecommers/static/js/main.b57e9d17.chunk.js",
-    "main.js.map": "/sachinrajput76/ecommers/static/js/main.b57e9d17.chunk.js.map",
-    "runtime-main.js": "/sachinrajput76/ecommers/static/js/runtime-main.cd7c5416.js",
-    "runtime-main.js.map": "/sachinrajput76/ecommers/static/js/runtime-main.cd7c5416.js.map",
-    "static/js/2.0f797a1b.chunk.js": "/sachinrajput76/ecommers/static/js/2.0f797a1b.chunk.js",
-    "static/js/2.0f797a1b.chunk.js.map": "/sachinrajput76/ecommers/static/js/2.0f797a1b.chunk.js.map",
-    "index.html": "/sachinrajput76/ecommers/index.html",
-    "static/css/main.66f54b8a.chunk.css.map": "/sachinrajput76/ecommers/static/css/main.66f54b8a.chunk.css.map",
-    "static/js/2.0f797a1b.chunk.js.LICENSE.txt": "/sachinrajput76/ecommers/static/js/2.0f797a1b.chunk.js.LICENSE.txt"
+    "main.css": "/ecommers/static/css/main.66f54b8a.chunk.css",
+    "main.js": "/ecommers/static/js/main.cdceec74.chunk.js",
+    "main.js.map": "/ecommers/static/js/main.cdceec74.chunk.js.map",
+    "runtime-main.js": "/ecommers/static/js/runtime-main.8e0de5ae.js",
+    "runtime-main.js.map": "/ecommers/static/js/runtime-main.8e0de5ae.js.map",
+    "static/js/2.0f797a1b.chunk.js": "/ecommers/static/js/2.0f797a1b.chunk.js",
+    "static/js/2.0f797a1b.chunk.js.map": "/ecommers/static/js/2.0f797a1b.chunk.js.map",
+    "index.html": "/ecommers/index.html",
+    "static/css/main.66f54b8a.chunk.css.map": "/ecommers/static/css/main.66f54b8a.chunk.css.map",
+    "static/js/2.0f797a1b.chunk.js.LICENSE.txt": "/ecommers/static/js/2.0f797a1b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd7c5416.js",
+    "static/js/runtime-main.8e0de5ae.js",
     "static/js/2.0f797a1b.chunk.js",
     "static/css/main.66f54b8a.chunk.css",
-    "static/js/main.b57e9d17.chunk.js"
+    "static/js/main.cdceec74.chunk.js"
   ]
 }
